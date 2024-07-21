@@ -1,6 +1,6 @@
 ### Hi, this is Yadab Sutradhar 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'am+Yadab+Sutradhar!;I'm+a+Frontend+Developer...;I'm+a+quick+learner;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'am+Yadab+Sutradhar!;I'm+a+Software+Developer...;I'm+a+quick+learner;)](https://git.io/typing-svg)
 
 ![age](https://img.shields.io/badge/age-29-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
