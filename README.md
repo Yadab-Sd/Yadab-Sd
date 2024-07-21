@@ -8,15 +8,16 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About me**
 
-I am a Frontend developer with over 3 years of experience in developing robust, scalable, optimized, modular web applications using ReactJS, NextJS, Angular and TypeScript.
+I am a Software Development Engineer with over 4 years of experience in developing robust, scalable, optimized, modular web applications using Java, Spring (+-Boot) ReactJS, NextJS, Angular JavaScript, TypeScript, SQL, No-SQL, implementing design patterns and software architectures.
 
-- 🔭 I’m currently looking for a position in Frontend Development
+- 🔭 I’m currently looking for a position in Fullstack Development
 - 🌱 I’m currently learning the latest technologies and tools on it
 - 👯 I’m looking to collaborate on some projects with millions of users
 - 🤔 I’m looking for help with optimization in problem-solving
 - 💬 Ask me about React's underlying design patterns
-- 📫 How to reach me: 641-233-9549, yadab.sutradhar@yahoo.com
-- 😄 Pronouns: Yadab
+- - 💬 Ask me about Software Development Principles
+- 📫 How to reach me: +1 641-233-9549, yadab.sutradhar@yahoo.com
+- 😄 Pronouns: Ja-dab
 - ⚡ Fun fact: Gaming, Discussion on what we love!
 
 
@@ -28,7 +29,7 @@ I am a Frontend developer with over 3 years of experience in developing robust, 
 </div>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,angular,javascript,typescript,redux,graphql,java,spring,nodejs,express,git,aws,bootstrap,css,scss,tailwind,docker,elasticsearch,html,materialui,mongodb,mysql,vscode&perline=19" />
+    <img src="https://skillicons.dev/icons?i=react,next,angular,javascript,typescript,redux,graphql,java,spring,nodejs,express,git,aws,bootstrap,css,scss,tailwind,AWS,docker,elasticsearch,html,materialui,mongodb,mysql,vscode&perline=19" />
   </a>
 </p>
 
