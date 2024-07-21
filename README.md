@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'am+Yadab+Sutradhar!;I'm+a+Software+Developer...;I'm+a+quick+learner;)](https://git.io/typing-svg)
 
 ![age](https://img.shields.io/badge/age-29-blue)
-![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
+![focus](https://img.shields.io/badge/focus-fullstack-brightgreen)
 ![living](https://img.shields.io/badge/living-Iowa-3c9)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About me**
