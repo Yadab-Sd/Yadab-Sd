@@ -29,7 +29,7 @@ I am a Software Development Engineer with over 4 years of experience in developi
 </div>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,angular,javascript,typescript,redux,graphql,java,spring,nodejs,express,git,aws,bootstrap,css,scss,tailwind,AWS,docker,elasticsearch,html,materialui,mongodb,mysql,vscode&perline=19" />
+    <img src="https://skillicons.dev/icons?i=react,next,angular,javascript,typescript,redux,graphql,java,spring,nodejs,express,git,aws,bootstrap,css,scss,tailwind,aws,docker,elasticsearch,html,materialui,mongodb,mysql,vscode&perline=19" />
   </a>
 </p>
 
