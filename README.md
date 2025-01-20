@@ -6,7 +6,7 @@
 ![focus](https://img.shields.io/badge/focus-fullstack-brightgreen)
 ![living](https://img.shields.io/badge/living-Iowa-3c9)
 
-## <picture><img src = "https://cdn-icons-png.flaticon.com/128/6009/6009939.png" width = 40px></picture> **About me**
+## <picture><img src = "https://cdn-icons-png.flaticon.com/128/5674/5674914.png" width = 40px></picture> **About me**
 
 I am a Software Development Engineer with over 4 years of experience in developing robust, scalable, optimized, modular web applications using Java, Spring (+-Boot) ReactJS, NextJS, Angular JavaScript, TypeScript, SQL, No-SQL, implementing design patterns and software architectures.
 
